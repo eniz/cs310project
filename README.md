@@ -1,4 +1,4 @@
-cs310project
-============
+CS 310 Course Project
+=====================
 
-Book sales company website coded using PHP+MySQL
+Book sales company website (kitapcenneti.com) coded using  PHP+MySQL, Twitter Bootstrap and jQuery.
